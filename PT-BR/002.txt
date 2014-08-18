@@ -1,0 +1,224 @@
+/ ***********************************
+*
+* Traduzido SENDO POR CARLOS ANDRÉ
+*
+************************************ /
+
+
+é so arrumar isso, e ver se a tradução
+faz sentido
+depois salva, e coloca no git
+
+tu vai colocar nesse aqruivo, 002.txt da pasta PT-BR
+O Q TU FOR FAZEDO TIPO ARRMOU UMAR PARTE, JOGA LA
+
+
+﻿1
+00:00:00,880 --> 00:00:04,000
+Olá e bem-vindo youtube para o seu segundo
+tutorial visual basic
+
+2
+00: 00: 04000 -> 00: 00: 07330
+Neste tutorial eu estou me recuperando como
+instalar o
+
+3
+00: 00: 07330 -> 00: 00: 11949
+Visual Basic 2010 Express IDE faz
+não tenho ninguém para ir
+
+4
+00: 00: 11.949 -> 00: 00: 16019
+e vamos procurou visual básico
+2010
+
+5
+00: 00: 16019 -> 00: 00: 20539
+sair a primeira coisa que vem à tona é
+max após Comp Sci-nos
+
+6
+00: 00: 20539 -> 00: 00: 23789
+expressa de downloads barra quando você vai
+à frente clique que
+
+7
+00: 00: 23789 -> 00: 00: 28109
+aqui está a página Dallas quando ele vir
+aqui a
+
+8
+00: 00: 28109 -> 00: 00: 31349
+Visual Basic 2010 Express, clique no que
+
+9
+00: 00: 31349 -> 00: 00: 35320
+e selecione o idioma que você pode ser
+Estou usando você usar o Inglês
+
+10
+00: 00: 35320 -> 00: 00: 42320
+tão bom 6a e agora abri-lo
+
+11
+00: 00: 42460 -> 00: 00: 45469
+você sabe pedir para você permissão para fazer
+
+12
+00: 00: 45469 -> 00: 00: 49270
+muda sibilante s extrair os arquivos
+
+13
+00: 00: 49270 -> 00: 00: 55030
+você sabe
+
+14
+00: 00: 55030 -> 00: 00: 59009
+demorar um pouco para configurar o
+componentes de isolamento e quando você começa a
+
+15
+00: 00: 59009 -> 00: 01: 01820
+esta pode ser necessário instalar um dotnet
+quadro 4.0
+
+16
+00: 01: 01820 -> 00: 01: 05319
+e eu, se esse for o caso eu vou dar uma
+pouco mais de tempo, então eu vou me levar
+
+17
+00: 01: 05319 -> 00: 01: 12319
+então isso é com nós para terminar de tomar uma
+segundo aqui
+
+18
+00: 01: 33329 -> 00: 01: 37049
+bem aqui é a nossa janela de configuração obter este
+fora do caminho
+
+19
+00: 01: 37049 -> 00: 01: 41409
+cuidado quando você pode escolher o que
+quer fazer com esta sim qualquer informação
+
+20
+00: 01: 41409 -> 00: 01: 42289
+sobre o meu sexo
+
+21
+00: 01: 42290 -> 00: 01: 45760
+experiência de instalação Microsoft, obviamente,
+que os setores sim
+
+22
+00: 01: 45760 -> 00: 01: 49329
+em seguida, clique em Avançar ainda ninguém nunca chega
+o caminho
+
+23
+00: 01: 49329 -> 00: 01: 53179
+clique em Avançar e ele diz que é
+
+24
+00: 01: 53180 -> 00: 01: 58000
+está pronto para começar é Visual Basic agora
+você fez desde que eu vai ser feito isso por mim
+
+25
+00: 01: 58000 -> 00: 01: 58780
+porque eu disse:
+
+26
+00: 01: 58780 -> 00: 02: 02090
+e reduzir o tamanho cinqüenta e quatro megabytes
+
+27
+00: 02: 02090 -> 00: 02: 08379
+diz para ir e é tudo isso agora
+
+28
+00: 02: 08379 -> 00: 02: 13379
+Eu vou em frente e PAS o vídeo
+aqui e eu vou voltar, uma vez que é feito
+
+29
+00: 02: 13379 -> 00: 02: 18560
+e você pode ver que o download estiver quase
+acabado
+
+30
+00: 02: 18560 -> 00: 02: 25560
+agora vai começar a instalar
+
+31
+00: 02: 26979 -> 00: 02: 33979
+as almas IDE do Visual Basic, vá em frente
+deixe que o prazo
+
+32
+00: 02: 38610 -> 00: 02: 40040
+e depositar aqui
+
+33
+00: 02: 40039 -> 00: 02: 43699
+e voltar, que terminou com
+que, como acabado
+
+34
+00: 02: 43699 -> 00: 02: 48679
+você deve ver um Windows como este
+que ir em frente e clique em Sair
+
+35
+00: 02: 48680 -> 00: 02: 52030
+e agora
+
+36
+00: 02: 52030 -> 00: 02: 56810
+esperamos por isso pode aderir ao seu
+Menu iniciar
+
+37
+00: 02: 56810 -> 00: 03: 03810
+e eles podem vê-lo apanhar carga
+
+38
+00: 03: 15039 -> 00: 03: 19590
+você pode abrir o Visual Basic 2010
+Expressar e meu diz que isso é parte I
+
+39
+00: 03: 19590 -> 00: 03: 21150
+desde os anos não vou dizer que
+
+40
+00: 03: 21150 -> 00: 03: 25349
+se você apenas sua justiça sobre isso para o
+primeira vez, mas você precisa fazer
+
+41
+00: 03: 25348 -> 00: 03: 28389
+é um ego para ajudar e pesquisa
+produtos
+
+42
+00: 03: 28389 -> 00: 03: 32809
+este é um pré-processamento que eu estou acostumado a dar
+los em seu e-mail como seu nome
+
+43
+00: 03: 32810 -> 00: 03: 36800
+eo que você está interessado em desenvolver
+e eu vou dar-lhe apenas uma licença grátis
+
+44
+00: 03: 36800 -> 00: 03: 39060
+chave e você pode usá-lo para registar
+seu produto
+
+45
+00: 03: 39060 -> 00: 03: 42110
+Então eu obrigado pela assistindo e não se esqueça
+para comentar como e subscrever
