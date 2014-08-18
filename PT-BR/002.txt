@@ -1,224 +1,206 @@
-/ ***********************************
+/*************************************************
 *
-* Traduzido SENDO POR CARLOS ANDRÉ
+* SENDO TRADUZIDO POR CARLOS ANDRÉ
 *
-************************************ /
+**************************************************
+*
+*  TRADUZIR CADA FAIXA E ORGANIZAR COMO ESTÁ AQUI
+*  NO ARQUIVO DA PASTA PT-BR COM O MESMO NOME
+*  DESTE (001).
+*
+**************************************************/
 
-
-é so arrumar isso, e ver se a tradução
-faz sentido
-depois salva, e coloca no git
-
-tu vai colocar nesse aqruivo, 002.txt da pasta PT-BR
-O Q TU FOR FAZEDO TIPO ARRMOU UMAR PARTE, JOGA LA
-
-
-﻿1
+1
 00:00:00,880 --> 00:00:04,000
-Olá e bem-vindo youtube para o seu segundo
-tutorial visual basic
+Olá Bem vindo ao segundo tutorial
+do visual basic
+
 
 2
-00: 00: 04000 -> 00: 00: 07330
-Neste tutorial eu estou me recuperando como
-instalar o
-
-3
-00: 00: 07330 -> 00: 00: 11949
-Visual Basic 2010 Express IDE faz
-não tenho ninguém para ir
+00:00:04,000 --> 00:00:07,330
+Neste tutorial estarei ensinando 
+como instalar o
 
 4
-00: 00: 11.949 -> 00: 00: 16019
-e vamos procurou visual básico
-2010
-
-5
-00: 00: 16019 -> 00: 00: 20539
-sair a primeira coisa que vem à tona é
-max após Comp Sci-nos
+00:00:11,949 --> 00:00:16,019
+pesquise no seu navegador
+visual Basic 2010
 
 6
-00: 00: 20539 -> 00: 00: 23789
-expressa de downloads barra quando você vai
-à frente clique que
+00:00:20,539 --> 00:00:23,789
+clique no mesmo
 
 7
-00: 00: 23789 -> 00: 00: 28109
-aqui está a página Dallas quando ele vir
-aqui a
+00:00:23,789 --> 00:00:28,109
+vá em frente clique na opção
 
 8
-00: 00: 28109 -> 00: 00: 31349
-Visual Basic 2010 Express, clique no que
+00:00:28,109 --> 00:00:31,349
+Visual Basic 2010 Express 
 
 9
-00: 00: 31349 -> 00: 00: 35320
-e selecione o idioma que você pode ser
-Estou usando você usar o Inglês
+00:00:31,349 --> 00:00:35,320
+E selecione o idioma que você 
+quer usar, eu irei usar em inglês
 
 10
-00: 00: 35320 -> 00: 00: 42320
-tão bom 6a e agora abri-lo
+00:00:35,320 --> 00:00:42,320
+Depois de baixa-lo,
+click no mesmo
 
 11
-00: 00: 42460 -> 00: 00: 45469
-você sabe pedir para você permissão para fazer
+00: 00: 35320 -> 00: 00: 42320
+você sabe se ele pedir permissão para fazer
 
 12
-00: 00: 45469 -> 00: 00: 49270
-muda sibilante s extrair os arquivos
+00:00:45,469 --> 00:00:49,270
+alterações para que você extraia os arquivos
 
 13
-00: 00: 49270 -> 00: 00: 55030
-você sabe
+00:00:49,270 --> 00:00:55,030
+que você sabe
 
 14
-00: 00: 55030 -> 00: 00: 59009
-demorar um pouco para configurar o
-componentes de isolamento e quando você começa a
+00:00:55,030 --> 00:00:59,009
+tirar um pouco para configurar o 
+isolamento dos componentes e quando você iniciar.
 
 15
-00: 00: 59009 -> 00: 01: 01820
-esta pode ser necessário instalar um dotnet
-quadro 4.0
+00:00:59,009 --> 00:01:01,820
+Para isso, pode ser necessário 
+a instalação de um usuário dotnet framework 4.0
 
 16
-00: 01: 01820 -> 00: 01: 05319
-e eu, se esse for o caso eu vou dar uma
-pouco mais de tempo, então eu vou me levar
-
+00:01:01,820 --> 00:01:05,319
+E, se esse for o caso, vou
+demorar um pouco mais,
+ 
 17
-00: 01: 05319 -> 00: 01: 12319
-então isso é com nós para terminar de tomar uma
-segundo aqui
+00:01:05,319 --> 00:01:12,319
+Isso levará alguns segundos
 
 18
-00: 01: 33329 -> 00: 01: 37049
-bem aqui é a nossa janela de configuração obter este
-fora do caminho
+00:01:33,329 --> 00:01:37,049
+ok aqui é a nossa janela de configuração
 
 19
-00: 01: 37049 -> 00: 01: 41409
-cuidado quando você pode escolher o que
-quer fazer com esta sim qualquer informação
+00:01:37,049 --> 00:01:41,409
+Cuidado quando você for escolher o 
+que deseja fazer com este "sim" podem pedir qualquer informações como
 
 20
-00: 01: 41409 -> 00: 01: 42289
-sobre o meu sexo
+00:01:41,409 --> 00:01:42,289
+Por exemplo o sexo
 
 21
-00: 01: 42290 -> 00: 01: 45760
-experiência de instalação Microsoft, obviamente,
-que os setores sim
+00:01:42,290 --> 00:01:45,760
+Experiência de configuração Microsoft,
+obviamente é o setor sim
 
 22
-00: 01: 45760 -> 00: 01: 49329
-em seguida, clique em Avançar ainda ninguém nunca chega
-o caminho
+00:01:45,760 --> 00:01:49,329
+Em seguida clique em próximo,
 
 23
-00: 01: 49329 -> 00: 01: 53179
-clique em Avançar e ele diz que é
+00:01:49,329 --> 00:01:53,179
+em seguida, clique em seguinte 
 
 24
-00: 01: 53180 -> 00: 01: 58000
-está pronto para começar é Visual Basic agora
-você fez desde que eu vai ser feito isso por mim
+00:01:53,180 --> 00:01:58,000
+agora que você fez uma vez...
 
 25
-00: 01: 58000 -> 00: 01: 58780
-porque eu disse:
+00:01:58,000 --> 00:01:58,780
+porque eu disse,
 
 26
-00: 01: 58780 -> 00: 02: 02090
-e reduzir o tamanho cinqüenta e quatro megabytes
+00:01:58,780 --> 00:02:02,090
+que seria reduzido o tamanho para cinquenta e quatro megabytes
 
 27
-00: 02: 02090 -> 00: 02: 08379
-diz para ir e é tudo isso agora
-
+00:02:02,090 --> 00:02:08,379
+e é tudo que vai valer a partir de agora
 28
-00: 02: 08379 -> 00: 02: 13379
-Eu vou em frente e PAS o vídeo
-aqui e eu vou voltar, uma vez que é feito
+00:02:08,379 --> 00:02:13,379
+Eu vou pausar o video e
+pular essa parte
 
 29
-00: 02: 13379 -> 00: 02: 18560
-e você pode ver que o download estiver quase
-acabado
+00:02:13,379 --> 00:02:18,560
+como você pode ver o download está quase
+concluído
 
 30
-00: 02: 18560 -> 00: 02: 25560
+00:02:18,560 --> 00:02:25,560
 agora vai começar a instalar
 
 31
-00: 02: 26979 -> 00: 02: 33979
-as almas IDE do Visual Basic, vá em frente
-deixe que o prazo
+00:02:26,979 --> 00:02:33,979
+o Visual Basic IDE  permite que as essências vão á frente
+permitindo que sejam executados
 
 32
-00: 02: 38610 -> 00: 02: 40040
+00:02:38,610 --> 00:02:40,040
 e depositar aqui
 
 33
-00: 02: 40039 -> 00: 02: 43699
-e voltar, que terminou com
-que, como acabado
+00:02:40,039 --> 00:02:43,699
+Terminamos a instalação 
 
 34
-00: 02: 43699 -> 00: 02: 48679
-você deve ver um Windows como este
-que ir em frente e clique em Sair
+00:02:43,699 --> 00:02:48,679
+Aparecerá uma janela como esta,
+vá em frente e clique em Sair
 
 35
-00: 02: 48680 -> 00: 02: 52030
-e agora
+00:02:48,680 --> 00:02:52,030
+E agora
 
 36
-00: 02: 52030 -> 00: 02: 56810
-esperamos por isso pode aderir ao seu
-Menu iniciar
+00:02:52,030 --> 00:02:56,810
+Clique no menu iniciar,
 
 37
-00: 02: 56810 -> 00: 03: 03810
-e eles podem vê-lo apanhar carga
+00:02:56,810 --> 00:03:03,810
+e execute o
+Visual Basic.
 
 38
-00: 03: 15039 -> 00: 03: 19590
-você pode abrir o Visual Basic 2010
-Expressar e meu diz que isso é parte I
+00:03:15,039 --> 00:03:19,590
+Como você pode ver 
+o meu Visual Basic 2010 Express 
+afirma que se você usar essa parte
 
 39
-00: 03: 19590 -> 00: 03: 21150
-desde os anos não vou dizer que
+00:03:19,590 --> 00:03:21,150
+durante anos,
 
 40
-00: 03: 21150 -> 00: 03: 25349
-se você apenas sua justiça sobre isso para o
-primeira vez, mas você precisa fazer
+00:03:21,150 --> 00:03:25,349
+não significa que você deve usar somente ele.
 
 41
-00: 03: 25348 -> 00: 03: 28389
-é um ego para ajudar e pesquisa
-produtos
+00:03:25,348 --> 00:03:28,389
+mas você deve saber administrar o seu tempo,
+para ajudar a fazer ego na pesquisa de produtos.
 
 42
-00: 03: 28389 -> 00: 03: 32809
-este é um pré-processamento que eu estou acostumado a dar
-los em seu e-mail como seu nome
+00:03:28,389 --> 00:03:32,809
+Este é um pré-processamento, que pedirá informações
+como seu email e seu nome
 
 43
-00: 03: 32810 -> 00: 03: 36800
-eo que você está interessado em desenvolver
-e eu vou dar-lhe apenas uma licença grátis
+00:03:32,810 --> 00:03:36,800
+E o que você estiver interessado em
+desenvolver e lhe darão apenas uma licença gratuita
 
 44
-00: 03: 36800 -> 00: 03: 39060
-chave e você pode usá-lo para registar
-seu produto
+00:03:36,800 --> 00:03:39,060
+E você pode usá-lo para registrar seu produto
 
 45
-00: 03: 39060 -> 00: 03: 42110
-Então eu obrigado pela assistindo e não se esqueça
-para comentar como e subscrever
+00:03:39,060 --> 00:03:42,110
+Bem, é isso, obrigado por está assistindo e
+não esqueça de comentar e se inscrever no canal
+
+
